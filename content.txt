@@ -1,0 +1,5 @@
+1. Class and object(example)
+2. Class has data / attribute and function/methods
+      >code walkthrough
+      >attributes get called itself , methods are called manually
+3. Why python is called oops??
