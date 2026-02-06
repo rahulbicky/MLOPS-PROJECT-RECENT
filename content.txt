@@ -11,6 +11,9 @@
 
 
 5. End to End Project(chatbook class)
+  > function vs method
   > encapsulation 
   > getter and scatter
-  > static methods   
+  > static methods
+  > inheritence
+     
