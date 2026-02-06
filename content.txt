@@ -16,4 +16,8 @@
   > getter and scatter
   > static methods
   > inheritence
-     
+  > Inheritence code example 
+  > why inheritence is needed ??(code reusability , parent has no access to child class)
+  > what gets inherited ??--constructor , non private attributes , non private methods 
+  > super keyword(can be used only inside  class ,cannot access variables /attributes ,used only inside child class )
+  > types of inheritence --1. single inheritence 2. multilevel 3. heirarchical 4. multiple <diamond problem> 5. hybrid
