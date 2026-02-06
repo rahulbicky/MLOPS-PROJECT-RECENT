@@ -3,3 +3,9 @@ my_str = "mlops practice"
 my_int = 155
 
 print(type(my_str))
+
+
+
+
+from oops_proj import chatbook
+user1 = chatbook()

@@ -2,4 +2,15 @@
 2. Class has data / attribute and function/methods
       >code walkthrough
       >attributes get called itself , methods are called manually
-3. Why python is called oops??
+3. Why python is called oops??  -- Everything in python is an object (data structure ,data type etc)
+4. Advatages:- 
+  > you can create your own datatype 
+  > code reusabiltiy
+  > debugging
+  > easy to colab
+
+
+5. End to End Project(chatbook class)
+  > encapsulation 
+  > getter and scatter
+  > static methods   
